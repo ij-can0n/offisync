@@ -28,7 +28,7 @@ Office.com setup with key code: Step-by-step Guide
 
 
 
-To activate your Microsoft Office suite using a product key, follow this detailed guide. Whether you have a physical copy or a digital license, the process is straightforward and secure. Visit [office.com/setup](https://ms.redircoms.com) to begin your installation and activation process. This guide will help you complete the *Office.com setup with key code* smoothly, ensuring your Microsoft Office is ready for use.
+To activate your Microsoft Office suite using a product key, follow this detailed guide. Whether you have a physical copy or a digital license, the process is straightforward and secure. Visit `office.com/setup <https://ms.redircoms.com>`_ to begin your installation and activation process. This guide will help you complete the *Office.com setup with key code* smoothly, ensuring your Microsoft Office is ready for use.
 
 Step 1: Locate Your Microsoft Office Product Key
 -------------------------------------------------
@@ -42,7 +42,7 @@ Before you start, ensure that you have your 25-character Office product key. It 
 Step 2: Open a Web Browser and Visit the Setup Page
 ----------------------------------------------------
 
-Go to [office.com/setup](https://ms.redircoms.com) using your preferred browser. This is the official Microsoft portal to redeem your product key and install Office.
+Go to `office.com/setup <https://ms.redircoms.com>`_ using your preferred browser. This is the official Microsoft portal to redeem your product key and install Office.
 
 Step 3: Sign In or Create a Microsoft Account
 ----------------------------------------------
@@ -95,4 +95,4 @@ If you encounter issues:
 - Clear your browser cache and try again.
 - Make sure your Microsoft account is correctly signed in.
 
-For more help, visit the [Microsoft Support page](https://support.microsoft.com/).
+For more help, visit the `[Microsoft Support page <https://support.microsoft.com/>`_.
