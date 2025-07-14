@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = 'Offic.com setup with key code'
 
 
 # The full version, including alpha/beta/rc tags
