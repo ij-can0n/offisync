@@ -95,4 +95,4 @@ If you encounter issues:
 - Clear your browser cache and try again.
 - Make sure your Microsoft account is correctly signed in.
 
-For more help, visit the `[Microsoft Support page <https://support.microsoft.com/>`_.
+For more help, visit the `Microsoft Support page <https://support.microsoft.com/>`_.
